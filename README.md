@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumaiya Junaid</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🎓 I’m following **Bachelor of Software Engineering**
+- 🎓 I’m following **Bachelor of Software Engineering degree**
 
 - 👨‍💻 I’m Undergraduate at **The Open University of Sri Lanka**
 
