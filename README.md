@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sumaiya-junaid-a04720220](https://www.linkedin.com/in/sumaiya-junaid-a04720220)
 
-- ⚡ Fun fact **Dream big, You are limitless.**
+- ⚡ Fun fact **Dream big, You Are Limitless.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
