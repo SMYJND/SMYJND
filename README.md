@@ -19,7 +19,7 @@
 
 <h3 align="left">My Personal Portfolio:</h3>
 <p align="left">
- <a href="https://sumaiyajunaid.herokuapp.com/" target="blank"> </a>
+https://sumaiyajunaid.herokuapp.com/
 </p>
 
 <h3 align="left">Connect with me:</h3>
