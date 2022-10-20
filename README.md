@@ -19,7 +19,7 @@
 
 <h3 align="left">My Personal Portfolio:</h3>
 <p align="left">
-<a href="https://sumaiyajunaid.herokuapp.com/" target="blank">
+ <a href="https://sumaiyajunaid.herokuapp.com/" target="blank"> </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -50,6 +50,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smyjnd&show_icons=true&locale=en&layout=compact" alt="smyjnd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smyjnd&show_icons=true&locale=en" alt="smyjnd" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=smyjnd&show_icons=true&locale=en" alt="smyjnd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smyjnd&" alt="smyjnd" /></p>
