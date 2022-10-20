@@ -17,6 +17,11 @@
 
 - ⚡ Fun fact **Dream big, You Are Limitless.**
 
+<h3 align="left">My Personal Portfolio:</h3>
+<p align="left">
+<a href="https://sumaiyajunaid.herokuapp.com/" target="blank">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sumaiya-junaid-a04720220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumaiya-junaid-a04720220" height="30" width="40" /></a>
@@ -43,8 +48,8 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>&nbsp;&nbsp;&nbsp; </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smyjnd&show_icons=true&locale=en&layout=compact" alt="smyjnd" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smyjnd&show_icons=true&locale=en&layout=compact" alt="smyjnd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smyjnd&show_icons=true&locale=en" alt="smyjnd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smyjnd&" alt="smyjnd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smyjnd&" alt="smyjnd" /></p>
