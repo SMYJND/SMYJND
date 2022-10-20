@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Sumaiya Junaid</h1>
-<h3 align="center">A passionate trainee frontend developer</h3>
+<h3 align="center">A Passionate Trainee Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smyjnd&label=Profile%20views&color=0e75b6&style=flat" alt="smyjnd" /> </p>
 
@@ -50,6 +50,6 @@ https://sumaiyajunaid.herokuapp.com/
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smyjnd&show_icons=true&locale=en&layout=compact" alt="smyjnd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smyjnd&show_icons=true&locale=en" alt="smyjnd" /></p>
+<p align ="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=smyjnd&show_icons=true&locale=en" alt="smyjnd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smyjnd&" alt="smyjnd" /></p>
